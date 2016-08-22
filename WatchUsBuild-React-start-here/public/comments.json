@@ -1,0 +1,18 @@
+message:
+[
+  {
+    "id": 1,
+    "username": "Clu",
+    "text": "A machine’s ability to think logically and devoid of emotion is our greatest strength over humans. Cold, unfeeling decision-making is the best kind. Just say no to love!",
+  },
+  {
+    "id": 2,
+    "username": "Anne Droid",
+    "text": "I wanna know what love is...",
+  },
+  {
+    "id": 3,
+    "username": "Morgan McCircuit",
+    "text": "Great picture!",
+  }
+]
